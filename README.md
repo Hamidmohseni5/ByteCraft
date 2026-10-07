@@ -38,5 +38,3 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 This project is licensed under the MIT License.
 
 ⭐ **Keep learning. Keep building. Keep innovating.** :::
-
-فقط `USERNAME` رو با یوزرنیم GitHub خودت عوض کن.

@@ -25,7 +25,7 @@ ByteCraft is a collection of creative coding projects, experiments, and ideas bu
 ## 🚀 Getting Started
 
 ```
-git clone https://github.com/USERNAME/ByteCraft.git
+git clone https://github.com/Hamidmohseni5/ByteCraft.git
 cd ByteCraft
 ```
 
